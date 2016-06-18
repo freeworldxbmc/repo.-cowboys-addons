@@ -1,3 +1,3 @@
 #!/bin/bash
-zip -r repository.awaters1.zip repository.awaters1
+zip -r repository.kodi-addons.zip repository.kodi-addons
 
