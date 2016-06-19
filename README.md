@@ -1,2 +1,3 @@
-# repo.awaters1
-Kodi repository for my addons
+# repo.kodi-addons
+Kodi repository for 
+1. plugin.video.espn_3
